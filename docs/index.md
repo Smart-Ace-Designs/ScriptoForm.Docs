@@ -10,6 +10,7 @@ A **ScriptoForm project** is the set of files and folders including the PowerShe
 
 ### Why use a ScriptoForm
 A ScriptoForm, which was developed to simplify running complicated IT workflows with PowerShell scripts that require user interaction, is essentially a PowerShell script that provides the user interaction to the script with a Windows Forms (WinForms) instead of a command line interface.  When coded to do so, it provides many user friendly features that we are accustomed to with a WinForms application.  For example, you can code a ScriptoForm to:
+
 * Pre-load text into a textbox that enforces naming standards (e.g. all mail distributions lists should start with the prefix "DG_" per your corporate standards)
 * Enforce a specific case for data in real time (e.g. a Windows server name should always be UPPERCASE per your corporate standards)
 * Enforce text length in real time (e.g. a Windows server name should never be more that 15 character long per NETBIOS requirements)
