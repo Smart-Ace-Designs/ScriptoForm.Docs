@@ -1,7 +1,7 @@
 ---
 tag: code, example, control, dotnet
 ---
-# Title
+# DateTimePicker Control
 In a [[Index|ScriptoForm]], a **DateTimePicker** control allows the user to select a date and a time and in a specified format.
 
 ![[DateTimePicker1.png]] ![[DateTimePicker2.png]]
