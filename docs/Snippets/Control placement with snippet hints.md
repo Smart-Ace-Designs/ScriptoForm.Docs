@@ -1,5 +1,6 @@
 # Control Pair placement with snippet hints
 In a [[Index|ScriptoForm]], most controls come as a pair (an interactive control, such as a text box or combo box, and its partner label control) and these are collectively know as a *control pair*.  A standard ScriptoForm is designed such that:
+
 - The vertical space between controls in a control pair is always **20** units
 - The vertical space between control pairs is always **35** units
 
