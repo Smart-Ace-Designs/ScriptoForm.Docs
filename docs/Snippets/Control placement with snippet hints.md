@@ -10,8 +10,7 @@ The [Visual Studio Code snippets JSON](https://github.com/Smart-Ace-Designs/Smar
 
 ## The "15|P+35" hint
 This hint it typically used to determine the height of the label in a control pair:
->When adding the very first control pair to the form, use **15** for the height of the label
->For all other control pairs, use **35 plus the height of the previous interactive control** to determine the height of the new label control you are adding
+>When adding the very first control pair to the form, use **15** for the height of the label.  For all other control pairs, use **35 plus the height of the previous interactive control** to determine the height of the new label control you are adding
 
 ## The "P+20" hint
 This hint it typically used to determine the height of the interactive control in a control pair:
