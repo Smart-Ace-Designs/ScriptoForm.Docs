@@ -1,5 +1,4 @@
 ---
-alias: Enable Visual Styles
 tag: code, example, form, dotnet
 ---
 # Enable Visual Styles
