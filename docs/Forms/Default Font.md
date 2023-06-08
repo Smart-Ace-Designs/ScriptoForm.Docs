@@ -1,5 +1,4 @@
 ---
-alias: Default Font
 tag: code, example, form, dotnet, font
 ---
 # Default Font
@@ -11,4 +10,4 @@ $FormMain.Font = New-Object -TypeName System.Drawing.Font("MS Sans Serif",8
 ## Notes
 Some child controls of the form may not inherit this property and will require the value to be set separately at the control level.
 ## References
-https://learn.microsoft.com/en-us/dotnet/desktop/winforms/whats-new/net60?view=netdesktop-6.0#change-the-default-font
+[Default font changes](https://learn.microsoft.com/en-us/dotnet/desktop/winforms/whats-new/net60?view=netdesktop-6.0#change-the-default-font)
