@@ -1,5 +1,4 @@
 ---
-alias: TextBox
 tag: code, example, control, dotnet
 ---
 # TextBox Control
