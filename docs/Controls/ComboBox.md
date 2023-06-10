@@ -1,7 +1,7 @@
 ---
 tag: code, example, control, dotnet
 ---
-# ComboBox
+# ComboBox Control
 A **ComboBox** control allows a user to interactively select one of multiple items from a drop-down style list, which can be used to determine various actions performed by a ScriptoForm.
 
 ![[ComboBox.png]]

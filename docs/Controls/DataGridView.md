@@ -1,7 +1,7 @@
 ---
 tag: code, example, component, dotnet
 ---
-# DataGridView Component
+# DataGridView Control
 In a [[Index|ScriptoForm]], a **DataGridView** control is used to provide a customizable table for displaying data.  The data (such as an array of objects) should first be converted  into a *System.Data.DataTable* .NET object type when used with a **DataGridView** control [^1] so that it can be sorted interactively.
 
 ![[DataGridView.png]]
