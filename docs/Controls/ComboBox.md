@@ -10,9 +10,9 @@ In the ScriptoForm PowerShell script file, a ComboBox control should be instanti
 
 Designing the functionality and behavior of a ComboBox within a ScriptoForm might include:
 
-- Items can be pre-added to a ComboBox during the `OnLoad()` event of the main form and added or removed during runtime as required
+- The items can in a ComboBox can be pre-added during the `OnLoad()` event of the main form and\or modified at runtime
 - Actions can be performed when trigged by the `SelectedIndexChanged()` event of a ComboBox
-- The value of the selected text in a ComboBox can be obtained by using the `.Text` property of a ComboBox
+- The value of the selected text in a ComboBox can be obtained from the `Text` property
 
 ## Examples
 Instantiate a control pair:
@@ -62,7 +62,7 @@ Select text value of a ComboBox:
 $Environment = $ComboBoxEnvironment.Text
 ```
 ## Notes
-The "DropDownStyle" property of a ComboBox determines one of three [ComboBoxStyle](https://learn.microsoft.com/en-us/dotnet/api/system.windows.forms.comboboxstyle?view=windowsdesktop-7.0#fields) behaviors the ComboBox will exhibit.  Typically, in a ScriptoForm, the `DropDownList` style is used, which indicates the list is non-interactive and cannot be modified by the user.
+The `DropDownStyle` property of a ComboBox determines one of three [ComboBoxStyle](https://learn.microsoft.com/en-us/dotnet/api/system.windows.forms.comboboxstyle?view=windowsdesktop-7.0#fields) behaviors the ComboBox will exhibit.  Typically, in a ScriptoForm, the `DropDownList` style is used, which indicates the list is non-interactive and cannot be modified by the user.
 
 ## References
 [ComboBox Class (System.Windows.Forms) | Microsoft Learn](https://learn.microsoft.com/en-us/dotnet/api/system.windows.forms.combobox?view=windowsdesktop-7.0)
