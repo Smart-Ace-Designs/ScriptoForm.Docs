@@ -6,7 +6,7 @@ A **ComboBox** control allows a user to interactively select one of multiple ite
 
 ![[ComboBox.png]]
 
-In the [[Index|ScriptoForm]] PowerShell script file, a ComboBox control should be instantiated in the [[Controls]] region and then defined within the [[Forms|main forms]] script block.  If using the VS Code snippets file, the *Controls: Label & ComboBox* snippet can be used to instantiate a default ComboBox and [[Label]] pair in the script and the *Properties: Label & ComboBox* snippet can be used to assign a default set of properties to them.
+In the ScriptoForm PowerShell script file, a ComboBox control should be instantiated in the [[Controls]] region and then defined within the [[Forms|main forms]] script block.  If using the VS Code snippets file, the *Controls: Label & ComboBox* snippet can be used to instantiate a default ComboBox and [[Label]] pair in the script and the *Properties: Label & ComboBox* snippet can be used to assign a default set of properties to them.
 
 Designing the functionality and behavior of a ComboBox within a ScriptoForm might include:
 - Items can be pre-added to a ComboBox during the `OnLoad()` event of the main form and added or removed during runtime as required
