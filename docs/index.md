@@ -34,7 +34,3 @@ A means to compile the ScriptoForm script and optional support files (referenced
 * The executable should be able to dynamically select the version of PowerShell to use when running the script file but also controlled the user as needed.  For example, if PowerShell 7 is installed, the script should default to that version unless explicitly excluded by the user with a command line argument to the executable.  If no versions of PowerShell are installed, then the script should fall back to Windows PowerShell.
 * The executable should be seamless and hide the PowerShell console window when executed.  This makes for a familiar experience that users of a WinForms application are accustomed to.
 
-### Commercial products
-There are several professional commercial products in the market that allow you to create WinForms or WPF applications with PowerShell.  These products include a forms designer for drag-and-drop functionality, an advanced IDE, and technical support, among other things.  These are all great products and I highly recommend you check them out.
-
-However, these products do not fit my personal needs.  I created the ScriptoForm because I wanted 100% control over the format, layout, and naming standards used in my PowerShell scripts.
