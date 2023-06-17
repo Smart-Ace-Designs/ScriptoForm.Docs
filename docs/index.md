@@ -20,7 +20,7 @@ A ScriptoForm is essentially a PowerShell script that provides the user interact
 A ScriptoForm not only provides a user friendly experience for script interaction but also helps to ensure that corporate IT naming standards and business rules are followed and can provide instant feedback if they are not.
 
 ### Default vendor management tools
-The management tools provided provided by vendors to manage their individual products, by their very nature, are designed to be as generic as possible.  They need to be able to handle all possible combinations of settings and options because they cannot possibly know what specific task you are trying to accomplish or your corporate requirements, IT naming standards, or business rules.  Thus they typically provide a "single pane of glass" management application. 
+The management tools provided by vendors to manage their individual products, by their very nature, are designed to be as generic as possible.  They need to be able to handle all possible combinations of settings and options because they cannot possibly know what specific task you are trying to accomplish or your corporate requirements, IT naming standards, or business rules.  Thus they typically provide a "single pane of glass" management application. 
 
 A ScriptoForm allows you to perform the exact task you need to complete without having to navigate through the complicated management tool provided by the vendor.  If designed properly, a ScriptoForm can enforce all your corporate IT naming standards and business rules and eliminate all the individual steps normally required in the vendors native tool.  No clicking through menus, wizards, or other complex interfaces - you simply type in the require information and click the "Run" button.
 
