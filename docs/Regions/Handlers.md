@@ -2,7 +2,7 @@
 Tag: region, handlers
 ---
 # Handlers Region
-The **Handlers** region is used to define all form, component, and control event handlers, which are script blocks that are executed when an event is raised.  Examples of events include clicking a button, typing text into a textbox, and showing a form.
+The **Handlers** [[Regions|region]] is used to define all form, component, and control event handlers, which are script blocks that are executed when an event is raised.  Examples of events include clicking a button, typing text into a textbox, and showing a form.
 
 The region is denoted with the "#region Handlers" tag and occurs between the [[Functions|Functions]] and [[Main|Main]] regions in the ScriptoForm script.
 ## Code Example

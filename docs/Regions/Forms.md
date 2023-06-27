@@ -2,7 +2,7 @@
 Tag: region, forms
 ---
 # Forms Region
-The **Forms** region is used to define the script block for each Windows form used in the ScriptoForm script.  Each script block performs the following actions for it's respective form:
+The **Forms** [[Regions|region]] is used to define the script block for each Windows form used in the ScriptoForm script.  Each script block performs the following actions for it's respective form:
 
 - Sets the form properties and declares [[Handlers|Event Handlers]] for the form
 - For each child control/component that will exist in the form, sets the properties and declares [[Handlers|Event Handlers]] for it

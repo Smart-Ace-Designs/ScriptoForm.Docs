@@ -2,7 +2,7 @@
 Tag: region, controls
 ---
 # Controls Region
-The **Controls** region is used to instantiate the child [[Control-vs-Component|control and component]] objects of the form.  This typically includes buttons, textboxes, labels, and combo boxes.  These classes are defined in the "System.Windows.Forms" .NET namespace, and must be instantiated after that assembly has been loaded.
+The **Controls** [[Regions|region]] is used to instantiate the child [[Control-vs-Component|control and component]] objects of the form.  This typically includes buttons, textboxes, labels, and combo boxes.  These classes are defined in the "System.Windows.Forms" .NET namespace, and must be instantiated after that assembly has been loaded.
 
 This region is denoted with the "#region Controls" tag and must occur between the [[Appearance|Appearance]] [^Note] and [[Forms|Forms]] regions in a ScriptoForm script.
 ## Code Example
