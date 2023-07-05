@@ -1,6 +1,3 @@
----
-tag: concept
----
 # ScriptoForm
 
 ## What is a ScriptoForm
