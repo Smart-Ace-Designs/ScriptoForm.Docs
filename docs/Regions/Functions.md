@@ -2,7 +2,7 @@
 Tag: region, functions
 ---
 # Functions Region
-The **Functions** [[Regions|region]] is used define all PowerShell functions that are used throughout the ScriptoForm script.  If not functions are used within the ScriptoForm, this region can be removed from the script file.
+The **Functions** [[Regions|region]] is used define all PowerShell functions that are used throughout the ScriptoForm script.  If no functions are used within the ScriptoForm, this region can be removed from the script file.
 
 This region is denoted with the "#region Functions" tag and occurs between the [[Forms|Forms]] and [[Handlers|Handlers]] regions in the ScriptoForm script.
 ## Code Example

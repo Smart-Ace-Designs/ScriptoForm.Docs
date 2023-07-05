@@ -23,6 +23,6 @@ foreach ($IconFile in Get-ChildItem $CustomIconsLocation)
 $ListViewMain.LargeImageList = $ImageListMain
 ```
 ## Notes
-The above code example shows how to use an **ImageList** component to store images used for use by a [[ListView|ListView]] control.
+The above code example shows how to use an **ImageList** component to store images for use by a [[ListView|ListView]] control.
 ## References
 [ImageList Class (System.Windows.Forms) | Microsoft Learn](https://learn.microsoft.com/en-us/dotnet/api/system.windows.forms.imagelist?view=windowsdesktop-7.0)
