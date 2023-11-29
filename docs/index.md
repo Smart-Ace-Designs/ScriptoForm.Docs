@@ -1,7 +1,7 @@
 # ScriptoForm
 
 ## What is a ScriptoForm
-A **ScriptoForm** (pronounced: "Script Oh Form") is a PowerShell script that generates and displays a [Microsoft Windows Forms](https://learn.microsoft.com/en-us/dotnet/desktop/winforms/overview/?view=netdesktop-7.0#introduction) application that can be used for a specific management or system administration task in a computer network environment.  Typically, a ScriptoForm is compiled into an executable file which hides the PowerShell console window during execution and provides a more seamless and familiar experience to the user.
+A **ScriptoForm** is a PowerShell script that generates and displays a [Microsoft Windows Forms](https://learn.microsoft.com/en-us/dotnet/desktop/winforms/overview/?view=netdesktop-8.0#introduction) application that can be used for a specific management or system administration task in a computer network environment.  Typically, a ScriptoForm is compiled into an executable file which hides the PowerShell console window during execution and provides a more seamless and familiar experience to the user.
 
 A **ScriptoForm project** is the set of files and folders including the PowerShell script, typically stored in a GIT repository, that are used to compile the executable file using the Microsoft .NET CLI utility (dotnet.exe) which is available with any [Microsoft .NET SDK](https://dotnet.microsoft.com/en-us/download/dotnet).  The ScriptoForm project includes a C# file which the compiler will use as the source for the executable, and a C# project file (csproj file) which provides the set of instructions used to compile the executable.
 
