@@ -1,5 +1,7 @@
 # ScriptoForm
 
+Note: This site contains legacy documentation and is no longer maintained. The current ScriptoForm documentation is now available at: [ScriptoForm Docs](https://smartacedesigns-scriptoform-docs.netlify.app/)
+
 ## What is a ScriptoForm
 A **ScriptoForm** is a PowerShell script that generates and displays a [Microsoft Windows Forms](https://learn.microsoft.com/en-us/dotnet/desktop/winforms/overview/?view=netdesktop-8.0#introduction) application that can be used for a specific management or system administration task in a computer network environment.  Typically, a ScriptoForm is compiled into an executable file which hides the PowerShell console window during execution and provides a more seamless and familiar experience to the user.
 
